@@ -1,0 +1,4 @@
+config.txt
+*.csv
+moons/*.csv
+*.tsv
